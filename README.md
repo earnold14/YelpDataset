@@ -1,5 +1,5 @@
 # YelpDataset
-This program uses Apache Spark (using Databricks to run) to derive some statistics from the Yelp Dataset. Files have been slightly modified to better serve the purpose of the project.
+This program uses Apache Spark (in a Databricks notebook) to derive some statistics from the Yelp Dataset. Files have been slightly modified to better serve the purpose of the project.
 
 ## Files Used
 The files to be parsed are found in the [data](https://github.com/earnold14/YelpDataset/tree/main/data) folder.
