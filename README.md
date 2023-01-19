@@ -2,7 +2,7 @@
 This program uses Apache Spark (using Databricks to run) to derive some statistics from the Yelp Dataset. Files have been slightly modified to better serve the purpose of the project.
 
 ## Files Used
-The files to be parsed are found in the data folder, notably business.csv and review.csv
+The files to be parsed are found in the [data](https://github.com/earnold14/YelpDataset/tree/main/data) folder.
 
 ## Purpose
 1. The program lists the business ID and separate categories of the Top 10 businesses, based on their average ratings.
